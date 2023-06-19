@@ -14,6 +14,16 @@
       "age": 24,
       "gender": "Male",
       "fun fact": "Becomes an Evil Dad"
+    },
+    "yoda": {
+      "age": 100,
+      "gender": "male",
+      "fun fact": "Wise master"
+    },
+    "cade": {
+      "age": 19,
+      "gender": "male",
+      "fun fact": "running from his legacy"
     }
   }
 }
