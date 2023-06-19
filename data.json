@@ -1,0 +1,19 @@
+{
+  "names": {
+    "greg": {
+      "age": 20,
+      "gender": "Male",
+      "fun fact": "Likes StarWars"
+    },
+    "luke": {
+      "age": 20,
+      "gender": "Male",
+      "fun fact": "Has an Evil Dad"
+    },
+    "anakin": {
+      "age": 24,
+      "gender": "Male",
+      "fun fact": "Becomes an Evil Dad"
+    }
+  }
+}
